@@ -1,5 +1,6 @@
 /VGAF/*
 /vidtools/*
+/datasets/*
 
 MANIFEST
 build
