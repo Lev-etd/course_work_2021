@@ -1,6 +1,8 @@
 /VGAF/*
 /vidtools/*
 /datasets/*
+/VGAF+CAER/*
+/datasets_gluon/*
 
 MANIFEST
 build
